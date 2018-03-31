@@ -43,6 +43,7 @@ public class PieCreator extends AppCompatActivity {
 
     public void setDate(TextView view) {
 
+        //"%tc" = Date and time formatted with “%ta %tb %td %tT %tZ %tY” e.g. “Fri Feb 17 07:45:42 PST 2017“
         String dateMessage = String.format("%tc", new Date());
         view.setText(dateMessage);
     }
