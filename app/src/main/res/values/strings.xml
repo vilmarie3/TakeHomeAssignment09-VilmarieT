@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment09-VilmarieT</string>
+    <string name="title">Pielicious</string>
+    <string name="button">Find your Pie</string>
+    <string name="book_hint">Recipe Book Title</string>
+    <string name="book_button">Submit Title</string>
+    <string name="pie_type">Pie Type</string>
+    <string name="number_fruit">Number of Fruits</string>
+    <string name="lattice">Includes Lattice Artwork</string>
+    <string name="find">Find Recipe</string>
+    <string name="toast">Looking For Recipe</string>
+</resources>
